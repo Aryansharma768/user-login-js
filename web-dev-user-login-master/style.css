@@ -1,0 +1,46 @@
+body{
+    margin: auto;
+  background: url(images/background.jpg);
+  background-size: cover;
+}
+
+.main{
+    background-color:white;
+    padding: 75px;
+    width: 600px;
+    margin:auto;
+    border-radius: 8px;
+    
+}
+.main2{
+    text-align: center;
+    background-color: purple;
+    margin: auto;
+    width: 600px;
+    border-radius:8px;
+    padding: 75px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    }
+
+.str1{
+    color:white;
+}
+.btn1{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+}
+
+.main3{
+    margin: auto;
+    background-color: white;
+    width: 600px;
+    padding: 75px;
+}
+
+.img1{
+ padding: -19px;
+}
